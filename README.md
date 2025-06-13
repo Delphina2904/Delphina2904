@@ -19,4 +19,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Delphina2904&icon=0&color=10)](https://visitcount.itsvg.in)
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Delphina2904)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
