@@ -1,4 +1,4 @@
-## Hi, I'm Delphina✨
+## Hi, I'm Delphina Michael Emoin✨
 
 🔭 I’m currently working on enhancing my full-stack development skills.<br/>
 👯 I’m looking to collaborate on practical web development or ML-based projects.<br/>
